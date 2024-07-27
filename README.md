@@ -22,6 +22,6 @@ A simple Python script to generate random passwords.
 - Improve error handling.
 + Consider storing generated passwords securely.
 
-### Note: While this script provides a basic password generator, it's essential to prioritize strong password practices and consider using more robust password management tools for sensitive information.
+ Note: While this script provides a basic password generator, it's essential to prioritize strong password practices and consider using more robust password management tools for sensitive information.
            
 Enjoy!
