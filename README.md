@@ -13,8 +13,8 @@ A simple Python script to generate random passwords.
 
 ## Dependencies
 + Python 3.x
-+ 'Random'module
-+ 'string'module
++ `Random`module
++ `string`module
 
 ## Improvements
 + Add options for password complexity (uppercase, lowercase, numbers, special characters).
