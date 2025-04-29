@@ -1,5 +1,5 @@
 # CODSOFT_2
-# Simple Python Password Generator
+## Simple Python Password Generator
 
 ## Description
 
