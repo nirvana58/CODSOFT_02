@@ -3,9 +3,9 @@ Password Generator
 A simple Python script to generate random passwords.
 
 ## Usage
-1.Run the script: Execute the Python script.
-2.Enter password length: You will be prompted to enter the desired length of the password.
-3.Password generated: The script will generate and print a random password of the specified length.
++ 1.Run the script: Execute the Python script.
+- 2.Enter password length: You will be prompted to enter the desired length of the password.
++ 3.Password generated: The script will generate and print a random password of the specified length.
 
 ## Features
 + Generates random passwords.
